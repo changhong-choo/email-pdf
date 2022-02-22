@@ -3,7 +3,7 @@ To split multi-pages pdf into individual page and send each pdf to respective re
 
 ## Description
 The program is able to split pdf file into individual file by page and send the file to recipients by email based on the excel listing.
-Basically, the first page in pdf will send to first row recipient in the excel file.
+Basically, the first page in pdf will send to first row recipient in the excel file. Files in the data folder is the sample pdf file and excel listing.
 
 ## High level plan
 1. Split the pdf source into individual file by page.
