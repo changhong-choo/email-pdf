@@ -12,7 +12,7 @@ for i in range(inputpdf.numPages):
         output.write(outputStream)
 
 
-# 2. Get the merchants' email listing
+# 2. Get the recipients' from email listing
 import pandas as pd
 
 df = pd.read_csv(r'Excel Listing - Sample.csv')
